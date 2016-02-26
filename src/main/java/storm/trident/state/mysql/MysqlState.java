@@ -102,7 +102,7 @@ public class MysqlState<T> implements IBackingMap<T> {
 	}
 
 	/**
-	 * multiput implementation for mongodb
+	 * multiput implementation for mysql
 	 * 
 	 */
 	@Override
